@@ -5,7 +5,7 @@
 
 The **Gantt Chart** extension by **AnyChart** brings the full, classic Gantt chart into Qlik Sense: a table of tasks on the left, a timeline of bars on the right, and everything a real schedule needs in between, from baselines and progress to dependencies and milestones.
 
-Because the chart reads straight from the Qlik model, it updates as selections change, giving PMOs, operations teams, and analysts real-time visibility into project health and resource allocation.
+Because the chart reads straight from the Qlik model, it updates as selections change, giving PMOs, operations teams, and analysts real-time visibility into project health.
 
 Native to all Qlik Sense environments, including Cloud, Enterprise on Windows, and Desktop.
 
@@ -27,7 +27,7 @@ Native to all Qlik Sense environments, including Cloud, Enterprise on Windows, a
 Every task becomes a bar, placed and sized by its start and end dates.
 
 ### #2. Plan against reality
-Baseline bars carry the original schedule, and progress bars show how far each task has got.
+Baseline bars carry the original schedule, and progress bars show how much of each task is done.
 
 ### #3. Dependencies
 Connectors join tasks in all four types: start-start, start-finish, finish-start, finish-finish. One task can have several predecessors and successors.
@@ -39,7 +39,7 @@ Events with no duration get their own marker, and parent rows can preview the mi
 Group tasks into phases and sub-tasks, expand and collapse them, and let parent durations be calculated from their children.
 
 ### #6. A table beside the chart
-Index, name, and measure columns, with simple, hierarchical, or expression-based numbering.
+Index, dimension, and measure columns, with simple, hierarchical, or expression-based numbering.
 
 ### #7. Styling that follows your data
 Colors from Qlik expressions, custom labels and tooltips, start and end markers, reference lines and ranges, and highlighting for holidays, weekends, and working hours.
