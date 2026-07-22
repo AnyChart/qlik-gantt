@@ -21,7 +21,7 @@ Native to all Qlik Sense environments, including Cloud, Enterprise on Windows, a
 - **Permits and applications:** Current status, with received, approved, and expiry dates.
 
 ## Key features
-[![Demonstration of the interactive Gantt Chart in Qlik Sense](https://github.com/andreykh1985/qlik-gantt/blob/main/qlik-gantt-demonstrated.gif)](https://qlik.anychart.com/extensions/gantt-project/overview/)
+[![Demonstration of the interactive Gantt Chart in Qlik Sense](https://github.com/anychart/qlik-gantt/blob/main/qlik-gantt-demonstrated.gif)](https://qlik.anychart.com/extensions/gantt-project/overview/)
 
 ### #1. Tasks on a timeline
 Every task becomes a bar, placed and sized by its start and end dates.
